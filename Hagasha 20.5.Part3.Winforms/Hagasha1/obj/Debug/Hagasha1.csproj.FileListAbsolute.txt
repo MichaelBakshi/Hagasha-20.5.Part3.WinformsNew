@@ -1,0 +1,10 @@
+C:\Users\Michael\source\repos\Hagasha1\Hagasha1\bin\Debug\Hagasha1.exe.config
+C:\Users\Michael\source\repos\Hagasha1\Hagasha1\bin\Debug\Hagasha1.exe
+C:\Users\Michael\source\repos\Hagasha1\Hagasha1\bin\Debug\Hagasha1.pdb
+C:\Users\Michael\source\repos\Hagasha1\Hagasha1\obj\Debug\Hagasha1.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Hagasha1\Hagasha1\obj\Debug\Hagasha1.RememberTheNumbers.resources
+C:\Users\Michael\source\repos\Hagasha1\Hagasha1\obj\Debug\Hagasha1.Properties.Resources.resources
+C:\Users\Michael\source\repos\Hagasha1\Hagasha1\obj\Debug\Hagasha1.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\Hagasha1\Hagasha1\obj\Debug\Hagasha1.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Hagasha1\Hagasha1\obj\Debug\Hagasha1.exe
+C:\Users\Michael\source\repos\Hagasha1\Hagasha1\obj\Debug\Hagasha1.pdb
